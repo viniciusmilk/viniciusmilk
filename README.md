@@ -1,17 +1,34 @@
-### Hi, I'm Marcos 🙋🏻‍♂️
+<p align="center">
+<a href="https://github.com/viniciusmilk">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Marcos+Leite;Computer+Science+Student+%7C+Software+Engineer;" alt="Typing SVG" />
+</a>
+<br/>
 
-Estudante do curso de bacharelado em ciência da computação no IFMA campus Caxias e futuro Software Engineer, sou um entusiasta e apaixonado por tecnologia, então, não vejo a hora de poder impactar a vida de pessoas através do conhecimento que venho e vou adquirir ao longo da minha jornada.
+<a href="https://www.linkedin.com/in/viniciusmilk/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:viniciusleitedjmj3@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.instagram.com/leite69_/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusmilk)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leite69_/)
+<a href="https://github.com/viniciusmilk">
+    <img src="https://github-stats-alpha.vercel.app/api?username=viniciusmilk&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
+</p>
+
+- 📖 Graduating in Computer Science at the @ [Federal Institute of Education, Science and Technology of Maranhão, Caxias](https://caxias.ifma.edu.br/).
+
+- 💻 💻 Currently studying web development using the Python language with a focus on back-end.
 
 <br/>
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusMilk&show_icons=true&theme=radical)
-
-<br/>
+<p align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmilk&theme=blue-green)
 
@@ -24,4 +41,5 @@ Estudante do curso de bacharelado em ciência da computação no IFMA campus Cax
     <img align="center" alt="SQlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
     <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img align="center" alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
-</div>
+
+</p>
